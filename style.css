@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+}
+.sec_a{
+    position: relative;
+    padding-top: 80px;
+}
+#media_a audio{
+    width: 600px;
+    position: relative;
+}
+#media_a video{
+    position: relative;
+}
+#media_a section{
+    
+    margin: auto;
+    width: 40%;
+}
+#media_a{
+    margin: auto;
+    width: 100%;
+}
+#media_a h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: firebrick;
+}
+nav{
+    position: fixed;
+    width: 100%;
+    margin: 0;
+    border: 1px solid rgb(28, 7, 102);
+  display: block;
+}
+
+nav a{
+    text-decoration: none;
+    color: black;
+    border: 1px solid darkslategrey;    
+    cursor:pointer
+}
